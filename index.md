@@ -5,7 +5,7 @@ This is a live edit made in VSCode
 
 *This text is italic*
 
-**This text is bold **
+**This text is bold**
 
 [This is a link to Google](https://google.com)
 
