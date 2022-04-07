@@ -4,7 +4,7 @@
 *This is italic text*
 **This is bold text**
 [This is a link to Google](https://google.com)
-![UCSD](https://en.wikipedia.org/wiki/University_of_California,_San_Diego#/media/File:University_of_California,_San_Diego_seal.svg)
+![UCSD](https://i.pinimg.com/originals/fd/fd/bb/fdfdbb35dc080581686e32a94d67c7ad.jpg)
 > This is a blockquote
 * This is a bullet point
 * This is also a bullet point
@@ -13,5 +13,5 @@
 2. This is the second item in a list
 3. This is the third item in a list
 ---
-'System.out.println("Hello world");'
-'''System.out.println("Hello world");'''
+`System.out.println("Hello world");`
+```System.out.println("Hello world");```
