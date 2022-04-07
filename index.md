@@ -9,6 +9,10 @@ This is a live edit made in VSCode
 
 [This is a link to Google](https://google.com)
 
+[Lab Report 1 (does not work on local device)](lab-report-1-week-2.html)
+
+[Lab Report 1](https://mwchen25.github.io//cse15l-lab-reports/lab-report-1-week-2.html)
+
 ![UCSD](https://www.prepbaseballreport.com/media/school_logos/thumbs/1611_thumb.jpg)
 
 > This is a blockquote
