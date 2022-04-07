@@ -1,9 +1,11 @@
 # This is a title
 ## This is another title
 
-*This is italic text*
+This is a live edit made in VSCode
 
-**This is bold text**
+*This text is italic*
+
+**This text is bold**
 
 [This is a link to Google](https://google.com)
 
