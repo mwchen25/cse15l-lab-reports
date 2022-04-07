@@ -7,7 +7,7 @@
 
 [This is a link to Google](https://google.com)
 
-![UCSD](https://i.pinimg.com/originals/fd/fd/bb/fdfdbb35dc080581686e32a94d67c7ad.jpg =250x250)
+![UCSD](https://i.pinimg.com/originals/fd/fd/bb/fdfdbb35dc080581686e32a94d67c7ad.jpg)
 
 > This is a blockquote
 
