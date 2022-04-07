@@ -7,7 +7,7 @@
 
 [This is a link to Google](https://google.com)
 
-![UCSD](https://i.pinimg.com/originals/fd/fd/bb/fdfdbb35dc080581686e32a94d67c7ad.jpg)
+![UCSD](https://www.prepbaseballreport.com/media/school_logos/thumbs/1611_thumb.jpg)
 
 > This is a blockquote
 
