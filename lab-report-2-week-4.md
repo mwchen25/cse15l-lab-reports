@@ -8,7 +8,7 @@ A link to the file containing the failure-inducing input that prompted this chan
 
 ![Bug 1 output](./2-1-error.png)
 
-This image shows the erronerous output after running the code with the first failure-inducing input. The bug caused an infinite loop, which eventually caused the program to run out of memory.
+This image shows the symptom output after running the code with the first failure-inducing input. The bug caused an infinite loop, which eventually caused the program to run out of memory.
 
 The symptom of this failure-inducing input was an infinite loop, so there was no output after running the file at the command line until the loop was manually terminated.
 
@@ -22,7 +22,7 @@ A link to the file containing the failure-inducing input that prompted this chan
 
 ![Bug 2 output](./2-2-error.png)
 
-This image shows the erronerous output after running the code with the second failure-inducing input. The bug caused image links to be printed out alongside website links, even though the program was supposed to filter out images and only print website links.
+This image shows the symptom output after running the code with the second failure-inducing input. The bug caused image links to be printed out alongside website links, even though the program was supposed to filter out images and only print website links.
 
 The symptom of this failure-inducing input was images being printed out alongside website links, when only website links were supposed to be printed.
 
@@ -36,7 +36,7 @@ A link to the file containing the failure-inducing input that prompted this chan
 
 ![Bug 3 output](./2-3-error.png)
 
-This image shows the erronerous output after running the code with the third failure-inducing input. The bug caused the code to loop infinitely, and the code would not exit the loop unless the process was manually killed by the user.
+This image shows the symptom output after running the code with the third failure-inducing input. The bug caused the code to loop infinitely, and the code would not exit the loop unless the process was manually killed by the user.
 
 The symptom of this failure-inducing input was the same as in the first bug: since it caused an infinite loop, there was no output after running the file at the command line until the loop was manually terminated.
 
