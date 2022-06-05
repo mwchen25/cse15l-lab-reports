@@ -22,7 +22,7 @@ The bug that causes this error in my code is in the code below.
 
 ![482 bug](./5-1-bug.png)
 
-This segment of code is supposed to check whether or not a given link is an image or not; however, if the given link is not an image and is the first link in the file, this code prevents the link from being added to the final list of links, since the indices of the characters ```!``` and ```[``` are 1 apart. Therefore, the link is not added even though it should be recognized as a link by the program.
+This segment of code is supposed to check whether or not a given link is an image or not; however, if the given link is not an image and is the first link in the file, the underlined code prevents the link from being added to the final list of links, since the indices of the characters ```!``` and ```[``` are 1 apart. Therefore, the link is not added even though it should be recognized as a link by the program.
 
 ## File 2. 577.md
 
@@ -40,4 +40,4 @@ The bug that causes this error in my code is in the code below.
 
 ![577 bug](./5-2-bug.png)
 
-The bug in the given implementation that causes this erronerous output is the fact that this implementation does not check if a potential link is an image, i.e. the ```[``` character is preceded by the character ```!```. Since this implementation does not check for this, its output for this file is incorrect while my own implementation is correct.
+The bug in the given implementation that causes this erronerous output is the fact that this implementation does not check if a potential link is an image, i.e. the ```[``` character is preceded by the character ```!```; such a check should be added around where the yellow highlight appears in the image. Since this implementation does not check for this, its output for this file is incorrect while my own implementation is correct.
